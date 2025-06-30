@@ -34,11 +34,12 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<server>anypoint-exchange</server>
+				<username>Pujitha_I77</username>
 				<environment>Sandbox</environment>
-				<applicationName>worldtimezone-service</applicationName>
 				<workers>1</workers>
-				<workerType>MICRO</workerType>
+				<workerType>Micro</workerType>
+				<applicationName>worldtimezone-service</applicationName>
+				<password>Narayana@1609</password>
 				<muleVersion>4.1.4</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
